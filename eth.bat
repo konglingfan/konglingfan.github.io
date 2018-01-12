@@ -3,4 +3,4 @@ setx GPU_MAX_HEAP_SIZE 100
 setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
-ethminer.exe --farm-recheck 200 -G -S eu2.ethermine.org:4444 -FS us2.ethermine.org:4444 -O 0x07b3bD27B2212Ef0D387a7cA58DEe28EC60eE39d.eee
+ethminer.exe -G -F http://eth-eu.dwarfpool.com:80/0x07b3bD27B2212Ef0D387a7cA58DEe28EC60eE39d/lingfannv
